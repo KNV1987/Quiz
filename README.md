@@ -1,2 +1,1 @@
-
-[Quiz](https://knv1987.github.io/Quiz/)
+[Start quiz](https://knv1987.github.io/Quiz/)
