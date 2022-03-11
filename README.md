@@ -1,2 +1,2 @@
-# Quiz
-https://knv1987.github.io/Quiz/
+
+[Quiz](https://knv1987.github.io/Quiz/)
